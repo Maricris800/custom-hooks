@@ -1,4 +1,4 @@
-import { todoReducer } from "../08- useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 import { useReducer, useEffect } from "react";
 
 export const useTodos = () => {
